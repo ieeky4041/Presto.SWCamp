@@ -5,4 +5,5 @@
 개발에 꼭 필요한 자료입니다.  
 https://send-anywhere.com/web/downloads/T701YALK
 
-* 최진용
+* 이경완
+
